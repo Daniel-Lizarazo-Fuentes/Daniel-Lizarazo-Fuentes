@@ -33,3 +33,4 @@
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Lizarazo-Fuentes&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Lizarazo-Fuentes&theme=github_dark)
